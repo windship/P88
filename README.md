@@ -15,7 +15,7 @@ Try and enjoy!
 <br><br>
 
 
-<b>* Usage</b>
+# Usage
   
  1) Make a folder at where you want and just put P88.exe file into it. ex) 'B:\D88DISKN\P88.exe'
  2) Set D88DISKN folder in your path from AUTOEXEC.BAT. ex) 'path=B:\;B:\D88DISKN;'
@@ -31,7 +31,7 @@ Try and enjoy!
     'n' means 'n'th disk from the NAME order of disks.<br>
     <b>'P88 /l #3'</b> will execute <b>'P88SR /l 3.D88 1.D88 2.D88...'</b>.
 
-<b>* Copyright</b></p>
+# Copyright
   I used ChatGPT for entire code of this.<br>
   I didn't programmed at all for this program, I just explained my idea and ordered to code it.<br>
   So I don't want to tell my copyright strongly. Just enjoy, fork and enhance it if you want :)
