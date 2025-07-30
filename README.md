@@ -17,8 +17,8 @@ Try and enjoy!
 
 # Usage
   
- 1) Make a folder at where you want and just put P88.exe file into it. ex) 'B:\D88DISKN\P88.exe'
- 2) Set D88DISKN folder in your path from AUTOEXEC.BAT. ex) 'path=B:\;B:\D88DISKN;'
+ 1) Make a folder at where you want and just put P88.exe file into it. <b>ex) 'B:\D88DISKN\P88.exe'</b>
+ 2) Set D88DISKN folder in your path from AUTOEXEC.BAT. <b>ex) 'path=B:\;B:\D88DISKN;'</b>
  3) Reboot your PC-98 once to make your path setting enable.
  4) Go to the directory including D88 files what you want play.
  5) Type 'D88' to execute. It will start to search *.D88 files in your current folder.<br>
