@@ -1,8 +1,8 @@
 # P88
 Easy P88SR launcher 
 
-<a href="https://archive.org/details/88emu-100">'P88SR'</a> is a nice PC-8801 emulator for PC-98 dos system, but it's not so simple to run it.
-You have to merge multiple *.D88 disk image files into one file, or need to add whole D88 file names by one-line parameter behind the command.
+<a href="https://archive.org/details/88emu-100">'P88SR'</a> is a nice PC-8801 emulator for PC-98 dos system, but it's not so simple to run it.<br>
+You have to merge multiple *.D88 disk image files into one file, or need to add whole D88 file names by one-line parameter behind the command.<br>
 For example, you have to type like this:
 
 <b>'P88SR.EXE /l /S DISK1.D88 DISK2.D88 DISK3.D88 DISK4.D88 DISK5.D88 DISK6.D88'</b>
