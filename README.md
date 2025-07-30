@@ -7,8 +7,8 @@ For example, you have to type like this:
 
 <b>'P88SR.EXE /l /S DISK1.D88 DISK2.D88 DISK3.D88 DISK4.D88 DISK5.D88 DISK6.D88'</b>
 
-Yeah, it's so foolish.
-I really didn't want to do such a thing, so I thought and found a solution.
+Yeah, it's so foolish.<br>
+I really didn't want to do such a thing, so I thought and found a solution.<br>
 No image mergement needed, and no long filename parameter needed too.
 
 Try and enjoy!
